@@ -1,0 +1,10 @@
+/* navigation section */
+/* Home section */
+/* our services section */
+#services{
+flex-direction: column;
+overflow: hidden;
+}
+
+/* Our clients */
+/* Contact us  */
