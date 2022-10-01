@@ -12,7 +12,7 @@
     align-items: center;
 }
 #logo{
-margin: 5px 35px;
+margin: 5px 34px;
 }
 #logo img{
     opacity: 0.8;
@@ -54,7 +54,7 @@ margin: 5px 35px;
 }
 #navbar ul li a:hover{
     color: black;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(243, 255, 255);
     opacity: 1.5;
     cursor: pointer;
 }
@@ -62,7 +62,7 @@ margin: 5px 35px;
 #home{
     display: flex;
     flex-direction: column;
-    padding: 4px 200px;
+    padding: 8px 200px;
     justify-content: center;
     align-items: center;
     height: 585px;
@@ -91,7 +91,7 @@ margin: 5px 35px;
 #services .box{
     /* position: absolute; */
     height: 310px;
-    width: 490px;
+    width: 500px;
     border: 3px solid rgb(83, 80, 80);
     padding: 35px;
     margin: 10px;
@@ -178,7 +178,7 @@ transform: scale(1.05);
 }
 #client-section{
      font-size: 50px;
-     height: 309px;
+     height: 300px;
      font-family: 'Limelight', cursive;
 }
 #client-section::before{
